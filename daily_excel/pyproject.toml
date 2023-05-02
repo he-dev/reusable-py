@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "daily-excel"
+version = "1.0.0"
+requires-python = ">=3.10"
+authors = [{ name = "he-dev" }]
+dependencies = []
